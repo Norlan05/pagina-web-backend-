@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\CLINICA.csproj": {}
+    "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\CLINICA.csproj": {
+    "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\CLINICA.csproj",
+        "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj",
         "projectName": "CLINICA",
-        "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\CLINICA.csproj",
+        "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj",
         "packagesPath": "C:\\Users\\edward.lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\obj\\",
+        "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edward.lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

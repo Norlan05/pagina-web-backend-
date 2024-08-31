@@ -1,7 +1,22 @@
+using CLINICA.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", builder =>
+    {
+        builder
+            .AllowAnyOrigin()        // Permitir cualquier origen
+            .AllowAnyMethod()        // Permitir cualquier método HTTP
+            .AllowAnyHeader();       // Permitir cualquier header HTTP
+    });
+});
 
+// Add services to the container.
+var connection_string = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ClinicaDbcontext>(options => options.UseSqlServer(connection_string!));
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -19,7 +34,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseCors("CorsPolicy");
 app.MapControllers();
 
 app.Run();

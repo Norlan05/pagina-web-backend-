@@ -9,17 +9,18 @@ namespace CLINICA.Controllers
     [Route("api/[controller]")]
     public class SelectController : ControllerBase
     {
-        ClinicaDbcontext db;
+        //ClinicaDbcontext db;
 
-        public SelectController(ClinicaDbcontext db)
-        {
-            this.db = db;
-        }
+        //public SelectController(ClinicaDbcontext db)
+        //{
+        //    this.db = db;
+        //}
 
 
         [HttpPost]
         public IActionResult Index(Cliente_search model)
         {
+
            
             //coneccion base de datos
 

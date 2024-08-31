@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\",
+  "WorkspaceRootPath": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\clinica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:clinica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\data\\clinicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\data\\clinicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:data\\clinicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\modelos\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:modelos\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\model_request\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:model_request\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,36 +54,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClinicaDbcontext.cs",
-              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Data\\ClinicaDbcontext.cs",
-              "RelativeDocumentMoniker": "Data\\ClinicaDbcontext.cs",
-              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Data\\ClinicaDbcontext.cs",
-              "RelativeToolTip": "Data\\ClinicaDbcontext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "reservaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Model_request\\reservaDTO.cs",
+              "RelativeDocumentMoniker": "Model_request\\reservaDTO.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Model_request\\reservaDTO.cs",
+              "RelativeToolTip": "Model_request\\reservaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T23:42:42.895Z"
+              "WhenOpened": "2024-08-31T20:32:38.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T19:27:30.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reservas.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Modelos\\reservas.cs",
+              "RelativeDocumentMoniker": "Modelos\\reservas.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Modelos\\reservas.cs",
+              "RelativeToolTip": "Modelos\\reservas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:05:17.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SelectController.cs",
-              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\SelectController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SelectController.cs",
-              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\SelectController.cs",
-              "RelativeToolTip": "Controllers\\SelectController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T23:25:55.749Z",
+              "Title": "CLINICA.csproj",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj",
+              "RelativeDocumentMoniker": "CLINICA.csproj",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj",
+              "RelativeToolTip": "CLINICA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T18:27:06.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ClinicaDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Data\\ClinicaDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\ClinicaDbcontext.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Data\\ClinicaDbcontext.cs",
+              "RelativeToolTip": "Data\\ClinicaDbcontext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAtwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:42:42.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\SelectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SelectController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\SelectController.cs",
+              "RelativeToolTip": "Controllers\\SelectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:25:55.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UpdateController.cs",
-              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\UpdateController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\UpdateController.cs",
               "RelativeDocumentMoniker": "Controllers\\UpdateController.cs",
-              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\UpdateController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\UpdateController.cs",
               "RelativeToolTip": "Controllers\\UpdateController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,27 +139,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DeleteController.cs",
-              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\DeleteController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\DeleteController.cs",
               "RelativeDocumentMoniker": "Controllers\\DeleteController.cs",
-              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\DeleteController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\DeleteController.cs",
               "RelativeToolTip": "Controllers\\DeleteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T23:25:20.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "InsertController.cs",
-              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\InsertController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\InsertController.cs",
               "RelativeDocumentMoniker": "Controllers\\InsertController.cs",
-              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\InsertController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\Controllers\\InsertController.cs",
               "RelativeToolTip": "Controllers\\InsertController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAD4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T23:25:03.454Z"
+              "WhenOpened": "2024-08-19T23:25:03.454Z",
+              "EditorCaption": ""
             }
           ]
         },
