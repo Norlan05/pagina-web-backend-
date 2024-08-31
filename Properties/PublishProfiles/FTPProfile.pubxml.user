@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2vR/ZhaeBkCQylRBwurPmQAAAAACAAAAAAADZgAAwAAAABAAAADdC1MZIXpcxBaLpKfpUfccAAAAAASAAACgAAAAEAAAAObtBdm0XsoUOGSokGSclm0gAAAA7BLfVgXaolqZ4CiJL0+N5ISHFFlq4ll4xWrP9UVzIJ4UAAAArALysol4xZecwpy/U2gT5I8ZrNo=</EncryptedPassword>
+    <History>True|2024-08-31T16:34:15.4147033Z;False|2024-08-31T10:30:57.9651835-06:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftp://155.254.244.35/www.Clinica.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/19/2024 17:14:46</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/19/2024 17:14:46</publishTime>
+    </File>
+    <File Include="CLINICA.deps.json">
+      <publishTime>08/31/2024 10:31:18</publishTime>
+    </File>
+    <File Include="CLINICA.dll">
+      <publishTime>08/31/2024 10:32:18</publishTime>
+    </File>
+    <File Include="CLINICA.exe">
+      <publishTime>08/31/2024 10:32:18</publishTime>
+    </File>
+    <File Include="CLINICA.pdb">
+      <publishTime>08/31/2024 10:32:18</publishTime>
+    </File>
+    <File Include="CLINICA.runtimeconfig.json">
+      <publishTime>08/31/2024 10:31:18</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 10:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 10:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 10:21:48</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/31/2024 10:32:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

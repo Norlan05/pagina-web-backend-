@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\selectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\data\\clinicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:data\\clinicadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|c:\\users\\edward.lopez\\source\\repos\\clinica\\controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D32C975-7259-444F-AAD1-6F6878D2A4A4}|CLINICA.csproj|solutionrelative:controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClinicaDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Data\\ClinicaDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\ClinicaDbcontext.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Data\\ClinicaDbcontext.cs",
+              "RelativeToolTip": "Data\\ClinicaDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:42:42.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\SelectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SelectController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\SelectController.cs",
+              "RelativeToolTip": "Controllers\\SelectController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:25:55.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\UpdateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UpdateController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\UpdateController.cs",
+              "RelativeToolTip": "Controllers\\UpdateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:25:33.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\DeleteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeleteController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\DeleteController.cs",
+              "RelativeToolTip": "Controllers\\DeleteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:25:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertController.cs",
+              "DocumentMoniker": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\InsertController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InsertController.cs",
+              "ToolTip": "C:\\Users\\edward.lopez\\source\\repos\\CLINICA\\Controllers\\InsertController.cs",
+              "RelativeToolTip": "Controllers\\InsertController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:25:03.454Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
