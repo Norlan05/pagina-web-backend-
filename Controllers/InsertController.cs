@@ -50,7 +50,10 @@ namespace CLINICA.Controllers
                     apellido = model.apellido,
                     correo_electronico = model.correo_electronico,
                     numero_telefono = model.numero_telefono,
-                    fecha = model.fecha.Date + hora // Combina la fecha y la hora
+                    fecha = model.fecha.Date, // Combina la fecha y la hora
+                    hora = hora, // Usar solo la parte de la hora
+                    fecha_hora = model.fecha.Date + hora // Combinar fecha y hora
+
                 };
 
                 db.Reservas.Add(model_);

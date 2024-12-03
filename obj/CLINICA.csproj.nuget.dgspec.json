@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj": {}
+    "C:\\Users\\norla\\Documents\\Proyecto Final Pagina Web\\API\\CLINICA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj": {
+    "C:\\Users\\norla\\Documents\\Proyecto Final Pagina Web\\API\\CLINICA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj",
+        "projectUniqueName": "C:\\Users\\norla\\Documents\\Proyecto Final Pagina Web\\API\\CLINICA.csproj",
         "projectName": "CLINICA",
-        "projectPath": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\CLINICA.csproj",
-        "packagesPath": "C:\\Users\\edward.lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edward.lopez\\source\\repos\\backenclinica\\pagina-web-backend-\\obj\\",
+        "projectPath": "C:\\Users\\norla\\Documents\\Proyecto Final Pagina Web\\API\\CLINICA.csproj",
+        "packagesPath": "C:\\Users\\norla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\norla\\Documents\\Proyecto Final Pagina Web\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\edward.lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\norla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -47,15 +52,15 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.3, )"
+              "version": "[9.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[7.1.0, )"
             }
           },
           "imports": [
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

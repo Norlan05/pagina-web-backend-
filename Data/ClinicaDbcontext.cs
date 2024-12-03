@@ -26,18 +26,17 @@ namespace CLINICA.Data
             modelBuilder.Entity<reservas>(entity => 
             {
                 entity.ToTable("reservas","dbo");
-                entity.Property(e => e.id)
-                .HasColumnName("id");
-                entity.Property(e => e.nombre)
-                .HasColumnName("nombre");
-                entity.Property(e => e.apellido)
-                .HasColumnName("apellido");
-                entity.Property(e => e.correo_electronico)
-                .HasColumnName("correo_electronico");
-                entity.Property(e => e.numero_telefono)
-                .HasColumnName("numero_telefono");
-                entity.Property(e => e.fecha)
-                .HasColumnName("fecha_hora");
+
+                entity.Property(e => e.id).HasColumnName("id");
+                entity.Property(e => e.nombre).HasColumnName("nombre");
+                entity.Property(e => e.apellido).HasColumnName("apellido");
+                entity.Property(e => e.correo_electronico).HasColumnName("correo_electronico");
+                entity.Property(e => e.numero_telefono).HasColumnName("numero_telefono");
+
+                entity.Property(e => e.fecha).HasColumnName("fecha");
+                entity.Property(e => e.hora).HasColumnName("hora");
+
+                entity.Property(e => e.fecha_hora).HasColumnName("fecha_hora");
                
             });
 
