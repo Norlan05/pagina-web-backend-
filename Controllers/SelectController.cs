@@ -52,26 +52,32 @@ namespace CLINICA.Controllers
             (var error_in_requet, bool validate) = validate_request(model);
             if (validate) return BadRequest(error_in_requet);
 
-            var user = db.usuarios.Where(c => c.email == model.email && c.password == model.password && c.is_active == true).Select(a => a).FirstOrDefault();
 
-            if (user == null)
-            {
-                errorModel error = new errorModel
-                {
-                    error_text = "valide las credenciales nuevamente",
-                    status_error = "Error en login"
-                };
-                return BadRequest(error);
-            }
+            var user_reset = db.usuarios.Where(c => c.email == model.email && c.ResetTokenExpiry.AddMinutes(5) >= DateTime.Now).Select(a => a).FirstOrDefault();
 
-            if (user.reset)
+            if (user_reset != null)
             {
-                user.reset = false;
-                var update_user = db.usuarios.Update(user);
+                user_reset.password = user_reset.ResetToken;
+                db.usuarios.Update(user_reset);
                 db.SaveChanges();
-                return Ok(true);
+                return Ok();
             }
-            else return (Ok(true));
+            else
+            {
+
+                var user = db.usuarios.Where(c => c.email == model.email && c.password == model.password).Select(a => a).FirstOrDefault();
+
+                if (user == null)
+                {
+                    errorModel error = new errorModel
+                    {
+                        error_text = "valide las credenciales nuevamente",
+                        status_error = "Error en login"
+                    };
+                    return BadRequest(error);
+                }
+                return Ok();
+            }
         }
 
         [ApiExplorerSettings(IgnoreApi = true)]

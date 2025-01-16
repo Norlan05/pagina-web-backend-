@@ -46,25 +46,19 @@ namespace CLINICA.Data
             {
                 entity.ToTable("usuarios", "dbo");
                 entity.Property(c => c.id_usuario)
-                .HasColumnName("id_usuario");
+                .HasColumnName("Id");
                 entity.Property(c => c.nombre)
-                .HasColumnName("nombre");
-                entity.Property(c => c.apellido)
-                .HasColumnName("apellido");
+                .HasColumnName("Username");
                 entity.Property(c => c.email)
-                .HasColumnName("email");
+                .HasColumnName("Email");
                 entity.Property(c => c.password)
-                .HasColumnName("password");
-                entity.Property(c => c.rol)
-                .HasColumnName("rol");
+                .HasColumnName("Password");
                 entity.Property(c => c.created_at)
-                .HasColumnName("created_at");
-                entity.Property(c => c.update_at)
-                .HasColumnName("updated_at");
-                entity.Property(c => c.is_active)
-                .HasColumnName("is_active");
-                entity.Property(c => c.reset)
-                .HasColumnName("reset");
+                .HasColumnName("CreatedAt");
+                entity.Property(c => c.ResetToken)
+                .HasColumnName("ResetToken");
+                entity.Property(c => c.ResetTokenExpiry)
+                .HasColumnName("ResetTokenExpiry");
             });
 
             OnModelCreatingPartial(modelBuilder);
